@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-configuration/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/notes-dump/vault-configuration/","dg-note-properties":{}}
 ---
 
 ```
