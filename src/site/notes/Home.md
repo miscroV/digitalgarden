@@ -3,9 +3,10 @@
 ---
 
 
+
 | Cover                        | Title                                                   | Description                               |
 | ---------------------------- | ------------------------------------------------------- | ----------------------------------------- |
-| ![assets/Pengin.png\|100](/img/user/assets/Pengin.png)  | [[About\|About]]                                     | About                                     |
 | ![assets/gardens.gif\|100](/img/user/assets/gardens.gif) | [[~Notes_dump/Digital Gardening\|Digital Gardening]] | Digital Gardening is a hoot with obsidian |
+| ![assets/Pengin.png\|100](/img/user/assets/Pengin.png)  | [[About\|About]]                                     | About                                     |
 
 { .block-language-dataview}

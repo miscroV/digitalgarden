@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-dump/digital-gardening/","contentClasses":"cards","dg-note-properties":{"description":"Digital Gardening is a hoot with obsidian","cover":"[[assets/gardens.gif]]","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/notes-dump/digital-gardening/","contentClasses":"cards","dg-note-properties":{"cover":"[[assets/gardens.gif]]","description":"Digital Gardening is a hoot with obsidian","cssclasses":["cards"]}}
 ---
 
 ## Miscrov.dev 

@@ -6,12 +6,20 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-10-19T14:54:04.974Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/random-note-button/README.md",
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
       ]
+    },
+    "dg-timestamps": {
+      "settings": {
+        "showCreated": true,
+        "showUpdated": true,
+        "timestampFormat": "MMM dd, yyyy h:mm a",
+        "dateFormat": "MMM dd, yyyy"
+      }
     }
   }
 }
