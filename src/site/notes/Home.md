@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"cards cards-1-1","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","cards-1-1"],"cover":"[[assets/Pengin.png]]","description":"Home Link"}}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"cards cards-1-1","tags":["gardenEntry"],"dgShowInlineTitle":"false","dg-note-properties":{"cssclasses":["cards","cards-1-1"],"cover":"[[assets/Pengin.png]]","description":"Home Link"}}
 ---
 
 
