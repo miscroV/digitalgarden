@@ -2,9 +2,11 @@
   "/": [
     "Home",
     "About",
-    "~Notes_dump"
+    "Contact",
+    "Now",
+    "Vault"
   ],
-  "/~Notes_dump": [
+  "/Vault": [
     "Digital Gardening"
   ]
 }
