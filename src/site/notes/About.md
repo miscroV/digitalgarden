@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/about/","contentClasses":"cards","dg-note-properties":{"cover":null,"description":"About","cssclasses":["cards"],"tags":null}}
+{"dg-publish":true,"permalink":"/about/","contentClasses":"cards cards-cols-3 cards-1-1","tags":["#todo"],"dg-note-properties":{"cover":"[[Vault/the-emperors-new-groove-kuzco.webp]]","description":"About this digital Garden","cssclasses":["cards","cards-cols-3","cards-1-1"],"related notes":["[[Home]]","[[Contact]]","[[Now]]"],"tags":["#todo"]}}
 ---
 
-## #TODO Who Am I?
+# About 
+___
+![Pengin.png\|50](/img/user/__Assets/Pengin.png) 
+last update: 2026-10-21
 
+Hehe, you know *nothin*!
 
 ___
-
-| Cover                       | Title             | Description |
-| --------------------------- | ----------------- | ----------- |
-| ![assets/Pengin.png\|100](/img/user/assets/Pengin.png) | [[Home\|Home]] | Home Link   |
-
-{ .block-language-dataview}
