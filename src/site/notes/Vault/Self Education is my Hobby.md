@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/self-education-is-my-hobby/","contentClasses":"cards","tags":["todo"],"dg-note-properties":{"cover":"[[Vault/adventure-time-jake.webp]]","description":"Just keep learning, Just keep learning, Just keep learning, learning learning. :)","cssclasses":["cards"],"tags":["todo"]}}
+{"dg-publish":true,"permalink":"/vault/self-education-is-my-hobby/","contentClasses":"cards","tags":["todo"],"dg-note-properties":{"cover":"[[__Assets/adventure-time-jake.webp]]","description":"Just keep learning, Just keep learning, Just keep learning, learning learning. :)","cssclasses":["cards"],"tags":["todo"]}}
 ---
 
 # Self Education is my Hobby  

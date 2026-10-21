@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/now/","contentClasses":"cards","dg-note-properties":{"cover":"[[__Assets/trust-me-i-know-what-i'm-doing-astarion.webp]]","description":"What I am doing right now.","cssclasses":["cards"],"related notes":["[[Home]]","[[About]]","[[Contact]]"],"tags":null}}
+{"dg-publish":true,"permalink":"/now/","contentClasses":"cards","tags":["#todo"],"dg-note-properties":{"cover":"[[__Assets/trust-me-i-know-what-i'm-doing-astarion.webp]]","description":"What I am doing right now.","cssclasses":["cards"],"related notes":["[[Home]]","[[About]]","[[Contact]]"],"tags":["#todo"]}}
 ---
 
 # What I am up to right now 
