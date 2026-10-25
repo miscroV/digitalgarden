@@ -4,7 +4,7 @@
 
 # About 
 ___
-![Pengin.png\|50](/img/user/__Assets/Pengin.png) 
+
 last update: 2026-10-21
 
 Hehe, you know *nothin*!
