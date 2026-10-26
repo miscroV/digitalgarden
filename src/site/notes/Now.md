@@ -7,6 +7,7 @@ ___
 
 Right now I am [[Vault/Learning Computer Science with Open Source Society University\|Learning Computer Science with Open Source Society University]]. I have always been interested in computer science, and now I am getting a semblance of a formal education!
 
+Currently I am working on finding out what [[Systematic Program design is about __\|Systematic Program design is about __]]
 
 ___
 
