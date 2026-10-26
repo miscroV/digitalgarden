@@ -12,6 +12,7 @@ The general format of this website is similar to that of Andy Matuschak's [Everg
 There are many things to learn. But I follow my interests. 
 I'm planning to learn all the things, heres what I have so far:
 * [[Vault/Learning Computer Science with Open Source Society University\|Learning Computer Science with Open Source Society University]]
+* [[Vault/Learning West Coast Swing is fun\|Learning West Coast Swing is fun]]
 
 ___
 
