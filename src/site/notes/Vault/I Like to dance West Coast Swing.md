@@ -8,8 +8,8 @@ ___
 
 In general, my hope is to host here my knowledge and insights on West Coast Swing including things like its history, my journey, and technical details and skills I've learned from comps, workshops, and more. 
 ___
-[[__Vault/A Map Of Dancing.canvas\|A Map Of Dancing.canvas]][^1] shows a number of things, including my break-downs of select teachers methods, and a follow along of my dance journey. [[Vault/A Map Of Dancing In Public.canvas\|A Map Of Dancing In Public.canvas]] is a manual mirror of [[__Vault/A Map Of Dancing.canvas\|A Map Of Dancing.canvas]] for public sharing. It may be quite out of date depending on its last update. 
+[[__Vault/A Map Of Dancing.canvas\|A Map Of Dancing.canvas]][^1] shows a number of things, including my break-downs of select teachers methods, and a follow along of my dance journey. 
 
 ___
 
-[^1]: Unavailable for public use due to copyrighted material contained within. 
+[^1]: Unavailable for public use due to copyrighted or none-anonymous material contained within. 

@@ -12,7 +12,7 @@ ___
 ### Core CS
 ##### Core programming
 - [ ]  [Systematic Program Design]([Systematic Program Design](https://github.com/ossu/computer-science/blob/master/coursepages/spd/README.md))
-      [[Systematic Program design is about __\|Systematic Program design is about __]]
+      [[Systematic Program design is about\|Systematic Program design is about]]
 - [ ]  [Class-based Program Design]([Class-based Program Design](https://github.com/ossu/computer-science/blob/master/coursepages/class-based/README.md))
 - [ ]  [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures)
 - [ ]  [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)
